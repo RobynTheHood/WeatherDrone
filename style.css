@@ -16,10 +16,15 @@ main {
 
 .submit {
     display: inline;
+    color: black;
 }
 
 .inputField {
     text-align: center;
+}
+
+.zipCode, .countryCode {
+    color: black;
 }
 
 .title {
