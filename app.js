@@ -1,4 +1,4 @@
-const API_KEY = config.API_KEY;
+const API_KEY = '0fcdad4fd72f9b3c1fec607e86ca3bbd';
 let units = 'imperial';
 let zipCode = '';
 let countryCode = '';
