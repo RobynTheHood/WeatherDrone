@@ -11,7 +11,12 @@ body {
 }
 
 main {
-    margin-top: 25rem;
+    margin-top: 20rem;
+}
+
+.location {
+    text-align: center;
+    margin-bottom: 3rem;
 }
 
 .submit {
